@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SpirngBoot-SSM/SpirngBoot-SSM.iml" filepath="$PROJECT_DIR$/SpirngBoot-SSM/SpirngBoot-SSM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpirngBoot-mybatis/SpirngBoot-mybatis.iml" filepath="$PROJECT_DIR$/SpirngBoot-mybatis/SpirngBoot-mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBoot.iml" filepath="$PROJECT_DIR$/SpringBoot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBoot-MybatisPlus/SpringBoot-MybatisPlus.iml" filepath="$PROJECT_DIR$/SpringBoot-MybatisPlus/SpringBoot-MybatisPlus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBoot-demo02/SpringBoot-demo02.iml" filepath="$PROJECT_DIR$/SpringBoot-demo02/SpringBoot-demo02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBoot-demo03.iml" filepath="$PROJECT_DIR$/SpringBoot-demo03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBoot-junit/SpringBoot-junit.iml" filepath="$PROJECT_DIR$/SpringBoot-junit/SpringBoot-junit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBoot-demo01/SpringBoot-quickstart.iml" filepath="$PROJECT_DIR$/SpringBoot-demo01/SpringBoot-quickstart.iml" />
+    </modules>
+  </component>
+</project>

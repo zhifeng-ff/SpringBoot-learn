@@ -1,0 +1,10 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql:///springboot
+    username: root
+    password: 310013
+    type: com.alibaba.druid.pool.DruidDataSource
+
+
+

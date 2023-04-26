@@ -1,0 +1,13 @@
+lesson: SpringBoot
+
+server:
+  port: 82
+
+enterprise:
+  name: zpf
+  age: 18
+  tel: 124515212
+  subject:
+    - java
+    - 前端
+    - 大数据

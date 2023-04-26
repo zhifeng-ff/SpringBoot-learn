@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="SpirngBoot-mybatis" />
+        <module name="SpringBoot-demo02" />
+        <module name="SpringBoot-junit" />
+        <module name="SpirngBoot-SSM" />
+        <module name="SpringBoot-demo03" />
+        <module name="SpringBoot-MybatisPlus" />
+        <module name="SpringBoot-quickstart" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="SpirngBoot-mybatis" target="1.8" />
+      <module name="SpirngBoot-SSM" target="1.8" />
+      <module name="SpringBoot-demo02" target="1.8" />
+      <module name="SpringBoot-demo03" target="1.8" />
+      <module name="SpringBoot-junit" target="1.8" />
+      <module name="SpringBoot-MybatisPlus" target="1.8" />
+      <module name="SpringBoot-quickstart" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="SpringBoot-demo03" options="-parameters" />
+      <module name="SpringBoot-quickstart" options="-parameters" />
+    </option>
+  </component>
+</project>
